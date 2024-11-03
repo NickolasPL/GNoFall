@@ -1,0 +1,7 @@
+org\gnofall\gnofall\ReloadCommand.class
+org\gnofall\gnofall\GNoFall.class
+org\gnofall\gnofall\NoFallCommand.class
+org\gnofall\gnofall\NoFallManager.class
+org\gnofall\gnofall\NoFallGiveCommand.class
+org\gnofall\gnofall\NoFallOffCommand.class
+org\gnofall\gnofall\NoFallManager$1.class

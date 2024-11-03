@@ -1,0 +1,7 @@
+nofall-duration: 60
+
+messages:
+  nofall-enabled: "Урон от падения отключен на %duration% секунд."
+  nofall-give: "Вы отключили урон от падения для %player% на %duration% секунд."
+  nofall-received: "Урон от падения отключен на %duration% секунд."
+  nofall-disabled: "Урон от падения снова включен."

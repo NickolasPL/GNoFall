@@ -1,0 +1,23 @@
+name: GNoFall
+version: 1.0
+main: org.gnofall.gnofall.GNoFall
+author: Nickolas
+description: Плагин для временного отключения урона от падения.
+
+commands:
+  nofall:
+    description: Временно отключает урон от падения для игрока, использующего команду.
+    usage: /nofall
+    premission: gnofall.nofall
+  nofallgive:
+    description: Временно отключает урон от падения для указанного игрока.
+    usage: /nofallgive <игрок> <длительность>
+    premission: gnofall.nofall.give
+  nofalloff:
+    description: Отключает временную защиту от урона от падения.
+    usage: /nofalloff
+    premission: gnofall.nofalloff
+  reload:
+    description: Перезагружает конфигурацию плагина.
+    usage: /reload
+    premission: gnofall.reload
